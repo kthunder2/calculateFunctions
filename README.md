@@ -1,4 +1,4 @@
-#basic c function
+# basic-c-function
 
 this function calculates:
 y=2x
